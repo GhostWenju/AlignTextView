@@ -1,2 +1,2 @@
 # AlignTextView
-解决TextView排版左右不对齐问题，并且针对英文单词换行断开也做了处理，直接拷贝AlignTextView使用即可
+解决TextView排版左右不对齐问题，并且针对英文单词换行断开也做了处理，直接拷贝AlignTextView使用即可，方法都有详细注释
